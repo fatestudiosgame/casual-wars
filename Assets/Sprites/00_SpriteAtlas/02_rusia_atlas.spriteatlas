@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 02_rusia_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 01ce1fb58e2532445bab1a3ac90e504a, type: 3}
+    totalSpriteSurfaceArea: 8353527
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a149232021e2b0b4892e42c63b24df4e, type: 3}
+  - {fileID: 21300000, guid: f760ec603d0b39844b0937a6d72762dc, type: 3}
+  - {fileID: 21300000, guid: becb5ef0b72bbef4b9c7aed94291a13c, type: 3}
+  - {fileID: 21300000, guid: 210abb614fffe414787212881015f42b, type: 3}
+  - {fileID: 21300000, guid: 5e3790622a6ff76498c9ad0b54bc68bb, type: 3}
+  - {fileID: -4662546686421599332, guid: 9c8b4782c5a433341aa4287d1e903dce, type: 3}
+  - {fileID: 6722136641142187531, guid: 9c8b4782c5a433341aa4287d1e903dce, type: 3}
+  - {fileID: 21300000, guid: ec48b003a26d2694b87e3e82d9bd6cb6, type: 3}
+  - {fileID: 21300000, guid: 0355faa3c1c311544a19e034b0bf1b98, type: 3}
+  - {fileID: 21300000, guid: f9082074e92ab9d47a134f9595bcf19b, type: 3}
+  - {fileID: 21300000, guid: f663c505d8d45b94c945658a038c5c23, type: 3}
+  - {fileID: 21300000, guid: be1adec52eaa60447815d322721fe5d5, type: 3}
+  - {fileID: 21300000, guid: 4f09e6061100e5b4eb67b4125892f6ae, type: 3}
+  - {fileID: 21300000, guid: 1e25b5e6095cc4c4188c3ae33a42f7f4, type: 3}
+  - {fileID: 21300000, guid: ee4c8af68ee36694fa8266b115c1ff67, type: 3}
+  - {fileID: 21300000, guid: a46c4ff655298614aafa1421f09a4689, type: 3}
+  - {fileID: 21300000, guid: 0fc73e4732c083546aa785821c474070, type: 3}
+  - {fileID: 21300000, guid: c4d8ea87f7ac8de4ca76d407eda2cc3f, type: 3}
+  - {fileID: 21300000, guid: 726d1ca70289bf142a7b5b200dbbff7d, type: 3}
+  - {fileID: -3088903223811001372, guid: 89fc904889e39d949a45c1ab5da8d93f, type: 3}
+  - {fileID: -1374842232136584059, guid: 89fc904889e39d949a45c1ab5da8d93f, type: 3}
+  - {fileID: -2309069318565046673, guid: 89fc904889e39d949a45c1ab5da8d93f, type: 3}
+  - {fileID: -7341212978203070447, guid: 89fc904889e39d949a45c1ab5da8d93f, type: 3}
+  - {fileID: -2848644700038522505, guid: 89fc904889e39d949a45c1ab5da8d93f, type: 3}
+  - {fileID: -242411941184602650, guid: 89fc904889e39d949a45c1ab5da8d93f, type: 3}
+  - {fileID: 3147945319350221762, guid: 89fc904889e39d949a45c1ab5da8d93f, type: 3}
+  - {fileID: 6272949624633505946, guid: 89fc904889e39d949a45c1ab5da8d93f, type: 3}
+  - {fileID: 9122658370570606336, guid: 89fc904889e39d949a45c1ab5da8d93f, type: 3}
+  - {fileID: -8276490053622847192, guid: 89fc904889e39d949a45c1ab5da8d93f, type: 3}
+  - {fileID: -7021731752490333899, guid: 89fc904889e39d949a45c1ab5da8d93f, type: 3}
+  - {fileID: -1768878843960819237, guid: 89fc904889e39d949a45c1ab5da8d93f, type: 3}
+  - {fileID: 1407620453671318916, guid: 89fc904889e39d949a45c1ab5da8d93f, type: 3}
+  - {fileID: -5157261589217338588, guid: 89fc904889e39d949a45c1ab5da8d93f, type: 3}
+  - {fileID: 21300000, guid: ade4b95816bc15d4daed8132a8526a69, type: 3}
+  - {fileID: 21300000, guid: 2ac78c68eca30bb44abfa079ef064df5, type: 3}
+  - {fileID: 21300000, guid: e8f68798814c7b047aad05b348cdc293, type: 3}
+  - {fileID: 21300000, guid: d19414d881e8fb04ca834ef018c3ba6f, type: 3}
+  - {fileID: -507350201019960918, guid: 8775d4a903a576e46a21c1eb69e244a5, type: 3}
+  - {fileID: -2221478894051659722, guid: 8775d4a903a576e46a21c1eb69e244a5, type: 3}
+  - {fileID: 21300000, guid: 0daf383a14111aa40ab01d441d3b0d94, type: 3}
+  - {fileID: 21300000, guid: c501934a5f598f643bdcd2d530a8a3d1, type: 3}
+  - {fileID: 21300000, guid: 308eb76b0feae6e4681f16da0d1618ba, type: 3}
+  - {fileID: 21300000, guid: 5c418f0c580a28f4385cd4d1198c604b, type: 3}
+  - {fileID: 21300000, guid: 2b7e4cfc8571a7b4593cbf4fa260c261, type: 3}
+  - {fileID: 21300000, guid: e20cb73d7f2551345965b1e194d533e5, type: 3}
+  - {fileID: 21300000, guid: 817e895d3a6488b49ad29ab54e26b8bf, type: 3}
+  - {fileID: 21300000, guid: 20e5aa7d5b9ebb44bb5f01a9a06b20fd, type: 3}
+  - {fileID: 21300000, guid: 9c57b3fdcfaeb294eb8536a5ec5263a0, type: 3}
+  - {fileID: -4303736497357992409, guid: 6298a40e9887cbc4ab21e13096b2ada3, type: 3}
+  - {fileID: 2310846412473917927, guid: 6298a40e9887cbc4ab21e13096b2ada3, type: 3}
+  - {fileID: 21300000, guid: 2b3bee5eef05b4c439b79f2a2f812f4a, type: 3}
+  - {fileID: 21300000, guid: 62c5b48e0aedc6842a96917f5077883e, type: 3}
+  - {fileID: 21300000, guid: d37ee7deccfb1a642ab32012c39618db, type: 3}
+  - {fileID: 21300000, guid: cbd3276fab1c26b4ba62c025654ee120, type: 3}
+  - {fileID: 21300000, guid: 9ade6c6f45b79ae419cfa62b69f3e472, type: 3}
+  - {fileID: 21300000, guid: 6aafdc6f45c6a4e469da0e84a1c1b1cc, type: 3}
+  - {fileID: 21300000, guid: c48930cf469f8374599668d62a196c1d, type: 3}
+  - {fileID: 21300000, guid: c3c885cfce6eff24f8730a3732047dfe, type: 3}
+  - {fileID: 21300000, guid: fbf754efc8790134eafe6f1c2305b40a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - arbol04nieve
+  - nieve01_dib02
+  - hierba01nieve
+  - cielo_nieve01
+  - arbol01nieve_dib02
+  - posta_medica_rusia_dib02_0
+  - posta_medica_rusia_dib02_1
+  - montanha01nieve
+  - munheconieve01_dib02
+  - basenieve01_dib02
+  - nube01_nieve
+  - san_basilio
+  - nube01_nieve_dib02
+  - montanha03nieve
+  - arbol01nieve_dib01
+  - montanha02nieve
+  - munheconieve01
+  - basenieve01
+  - arbol02nieve_dib01
+  - escenarionieve01_10
+  - escenarionieve01_11
+  - escenarionieve01_12
+  - escenarionieve01_13
+  - escenarionieve01_9
+  - escenarionieve01_8
+  - escenarionieve01_1
+  - escenarionieve01_0
+  - escenarionieve01_3
+  - escenarionieve01_2
+  - escenarionieve01_5
+  - escenarionieve01_4
+  - escenarionieve01_7
+  - escenarionieve01_6
+  - cielo_nieve01_dib01
+  - nieve01_dib01
+  - basenieve01_dib01
+  - baseint02
+  - posta_medica_rusia_dib01_1
+  - posta_medica_rusia_dib01_0
+  - baseint02_dib02
+  - arbol03nieve
+  - montanha02nieve_dib01
+  - cielo_nieve01_dib02
+  - arbol04nieve_dib02
+  - munheconieve01_dib01
+  - posta_medica_rusia
+  - san_basilio_dib01
+  - arbol02nieve
+  - hielo01_0
+  - hielo01_1
+  - nieve01
+  - arbol04nieve_dib01
+  - soldado_speakRecurso 21@2x
+  - baseint02_dib01
+  - montanha02nieve_dib02
+  - arbol01nieve
+  - san_basilio_dib02
+  - arbol02nieve_dib02
+  - nube01_nieve_dib01
+  m_RenderDataMap: {}
+  m_Tag: 02_rusia_atlas
+  m_IsVariant: 0

@@ -1,0 +1,308 @@
+{
+    "name": "PlayerControl",
+    "maps": [
+        {
+            "name": "Gameplay",
+            "id": "401bb09e-f41a-40fe-9617-8289fbce5ea4",
+            "actions": [
+                {
+                    "name": "BotonDisparo",
+                    "type": "Button",
+                    "id": "6e653751-6e77-429d-b6e6-d4823c954207",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "BotonAccion",
+                    "type": "Button",
+                    "id": "1b21873d-dd10-455f-b609-0287d9d86c8f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "BotonIzquierda",
+                    "type": "Button",
+                    "id": "2dbee3c6-5375-442a-80b0-ec1e3c4ca951",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "BotonDerecha",
+                    "type": "Button",
+                    "id": "6b8065a8-8143-42a9-8c5f-242d9cd0c890",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "BotonVoltear",
+                    "type": "Button",
+                    "id": "b9816f3b-4627-4503-81ae-42a04486f1aa",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "BotonPausa",
+                    "type": "Button",
+                    "id": "00d4b303-66e4-4e98-ac29-39c568ee05fe",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "BotonSeleccionarTropa",
+                    "type": "Button",
+                    "id": "61fddf3b-76b4-47a4-a3c4-84a883b3d5da",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "cbca1ded-46d3-4fa4-9e3d-aff7eb714d73",
+                    "path": "<HID::ShanWan USB WirelessGamepad >/button6",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my_gamepad",
+                    "action": "BotonDisparo",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "acc95556-6d4f-44ba-8ff9-c882a89f9332",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "teclado",
+                    "action": "BotonDisparo",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "57cc97e3-7b9a-47f9-8934-f20a0a6c37aa",
+                    "path": "<HID::ShanWan USB WirelessGamepad >/button3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my_gamepad",
+                    "action": "BotonAccion",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "35e6e3f3-25c2-41a3-bfcc-9ae7e9668b93",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "teclado",
+                    "action": "BotonAccion",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6427a7d3-36c2-4bd4-833a-7864dc670367",
+                    "path": "<HID::ShanWan USB WirelessGamepad >/stick/left",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my_gamepad",
+                    "action": "BotonIzquierda",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b1838acd-43df-4ce7-a6ee-7f1a787a6ab3",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "teclado",
+                    "action": "BotonIzquierda",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d1a4b225-2f84-4c20-b66e-ad667a1c161f",
+                    "path": "<Joystick>/stick/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my_gamepad",
+                    "action": "BotonDerecha",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1fe6444d-0fef-4a44-a93d-5977e0d90742",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "teclado",
+                    "action": "BotonDerecha",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ef9d255d-3b8a-474c-9f3e-b6f4166fb4e1",
+                    "path": "<HID::ShanWan USB WirelessGamepad >/button5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my_gamepad",
+                    "action": "BotonVoltear",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "eae519e4-c21b-4b41-a8df-c5dc8839dba7",
+                    "path": "<Keyboard>/shift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "teclado",
+                    "action": "BotonVoltear",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9f07785d-b217-4725-bead-a2355cb4ad5c",
+                    "path": "<HID::ShanWan USB WirelessGamepad >/button10",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my_gamepad",
+                    "action": "BotonPausa",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2cdde69b-465a-49b0-8d98-94b86a7a41a3",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "teclado",
+                    "action": "BotonPausa",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c33594b4-6e24-42c1-b46a-e88bed5ee6f9",
+                    "path": "<HID::ShanWan USB WirelessGamepad >/button7",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my_gamepad",
+                    "action": "BotonSeleccionarTropa",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "GameplayTropas",
+            "id": "f74f881b-ac4e-4cca-98d6-0c71822de52d",
+            "actions": [
+                {
+                    "name": "BotonIzquierda",
+                    "type": "Button",
+                    "id": "e1559a0c-e7b9-4a74-b107-0fb9710548c8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "BotonSeleccionarTropa",
+                    "type": "Button",
+                    "id": "4155562b-6155-43d1-940f-23d971618b6f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "BotonDerecha",
+                    "type": "Button",
+                    "id": "0b441a85-7cef-432d-815a-35ea2a0eb821",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "BotonAccion",
+                    "type": "Button",
+                    "id": "68700e7a-d907-4150-ba84-f4daed7bb225",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "76f4e918-0171-4554-860b-54afff134eed",
+                    "path": "<HID::ShanWan USB WirelessGamepad >/stick/left",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my_gamepad",
+                    "action": "BotonIzquierda",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a584f8b1-3953-479f-899b-c1c70ca33597",
+                    "path": "<Joystick>/stick/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my_gamepad",
+                    "action": "BotonDerecha",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5f16e9e1-178c-4189-84cb-40ff5964fa8f",
+                    "path": "<HID::ShanWan USB WirelessGamepad >/button3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my_gamepad",
+                    "action": "BotonAccion",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a84b4521-4264-4361-90c7-6411d318c625",
+                    "path": "<HID::ShanWan USB WirelessGamepad >/button7",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "my_gamepad",
+                    "action": "BotonSeleccionarTropa",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "my_gamepad",
+            "bindingGroup": "my_gamepad",
+            "devices": []
+        },
+        {
+            "name": "teclado",
+            "bindingGroup": "teclado",
+            "devices": []
+        }
+    ]
+}

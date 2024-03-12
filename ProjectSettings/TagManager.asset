@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - tropas
+  - fondosprefab
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - postprocessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fondo03
+    uniqueID: 597893549
+    locked: 0
+  - name: fondo02
+    uniqueID: 1435626527
+    locked: 0
+  - name: humo
+    uniqueID: 4258817219
+    locked: 0
+  - name: fondo01
+    uniqueID: 220268149
+    locked: 0
+  - name: objeto_fondo02
+    uniqueID: 3105638623
+    locked: 0
+  - name: fondo00
+    uniqueID: 1139680601
+    locked: 0
+  - name: objetos_fondo01
+    uniqueID: 2263247101
+    locked: 0
+  - name: interfaz_fondo
+    uniqueID: 4167375169
+    locked: 0
+  - name: enemigos02
+    uniqueID: 1766055817
+    locked: 0
+  - name: soldados02
+    uniqueID: 4099900481
+    locked: 0
+  - name: enemigos01
+    uniqueID: 3424615643
+    locked: 0
+  - name: soldados01
+    uniqueID: 1971486827
+    locked: 0
+  - name: hero01
+    uniqueID: 1472407601
+    locked: 0
+  - name: enemigos00
+    uniqueID: 3044530491
+    locked: 0
+  - name: soldados00
+    uniqueID: 4223409213
+    locked: 0
+  - name: objetos00
+    uniqueID: 675992271
+    locked: 0
+  - name: primer_plano
+    uniqueID: 826208319
+    locked: 0
+  - name: primerisimo_plano
+    uniqueID: 1098751295
+    locked: 0
+  - name: interfaz
+    uniqueID: 1965692619
+    locked: 0
+  - name: sobre_interfaz
+    uniqueID: 2257991897
+    locked: 0
+  - name: negro_puro
+    uniqueID: 705067977
+    locked: 0

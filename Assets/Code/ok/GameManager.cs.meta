@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3536767bb21b0c0489ea45c74e93d3b5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shot_sound: {instanceID: 0}
+  - no_bullets_sound: {instanceID: 0}
+  - helicopter_sound: {instanceID: 0}
+  - car_sound: {fileID: 8300000, guid: b26ce4a3d577a33418546e892f2d26c4, type: 3}
+  - text_sound: {instanceID: 0}
+  - click_sound: {instanceID: 0}
+  - money_sound: {fileID: 8300000, guid: e7ad957e5a0e4ba4a9704a5c8f9cab72, type: 3}
+  - holamundo01: {instanceID: 0}
+  - holamundo03: {instanceID: 0}
+  - musica_lm_01: {instanceID: 0}
+  - audio_source_music: {instanceID: 0}
+  - audio_source_sound_effect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

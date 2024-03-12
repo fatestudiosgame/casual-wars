@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 89fc904889e39d949a45c1ab5da8d93f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6272949624633505946
+    second: escenarionieve01_0
+  - first:
+      213: 3147945319350221762
+    second: escenarionieve01_1
+  - first:
+      213: -8276490053622847192
+    second: escenarionieve01_2
+  - first:
+      213: 9122658370570606336
+    second: escenarionieve01_3
+  - first:
+      213: -1768878843960819237
+    second: escenarionieve01_4
+  - first:
+      213: -7021731752490333899
+    second: escenarionieve01_5
+  - first:
+      213: -5157261589217338588
+    second: escenarionieve01_6
+  - first:
+      213: 1407620453671318916
+    second: escenarionieve01_7
+  - first:
+      213: -242411941184602650
+    second: escenarionieve01_8
+  - first:
+      213: -2848644700038522505
+    second: escenarionieve01_9
+  - first:
+      213: -3088903223811001372
+    second: escenarionieve01_10
+  - first:
+      213: -1374842232136584059
+    second: escenarionieve01_11
+  - first:
+      213: -2309069318565046673
+    second: escenarionieve01_12
+  - first:
+      213: -7341212978203070447
+    second: escenarionieve01_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: escenarionieve01_0
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1210
+        width: 423
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dfd44c94043584e9a8efd4980b4a43
+      internalID: 6272949624633505946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenarionieve01_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1054
+        width: 123
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c110d575d34aeb4baa12749b1658f8d
+      internalID: 3147945319350221762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenarionieve01_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1044
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074ff8680a0b7354f8ccf50e0f6cbff5
+      internalID: -8276490053622847192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenarionieve01_3
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1054
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70da5e6b5c83b8419e0719c0f89f10a
+      internalID: 9122658370570606336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenarionieve01_4
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 612
+        width: 143
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b38bcd30d333914da5d356bf9523b19
+      internalID: -1768878843960819237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenarionieve01_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 706
+        width: 132
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af373cefa035424191f7a2393c99019
+      internalID: -7021731752490333899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenarionieve01_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 709
+        width: 132
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1039e4f058edffe478c46ab454684f5a
+      internalID: -5157261589217338588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenarionieve01_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 714
+        width: 158
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe731192662ed5a449ac53fea8e623a9
+      internalID: 1407620453671318916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenarionieve01_8
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 702
+        width: 200
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cec14ef024ccee41824861540d80186
+      internalID: -242411941184602650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenarionieve01_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 433
+        width: 198
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf467d3f7052c84da21ad729a7e538b
+      internalID: -2848644700038522505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenarionieve01_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 429
+        width: 190
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff71e2db20f3124e879b071956fc2c5
+      internalID: -3088903223811001372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenarionieve01_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 443
+        width: 90
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a439825a1b82f4d85815e700e035e1
+      internalID: -1374842232136584059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenarionieve01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 510
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459a757ad37a8e646be8fdc378c8bda8
+      internalID: -2309069318565046673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escenarionieve01_13
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 8
+        width: 127
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da95210503c7444bad4895d9690c2c0
+      internalID: -7341212978203070447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

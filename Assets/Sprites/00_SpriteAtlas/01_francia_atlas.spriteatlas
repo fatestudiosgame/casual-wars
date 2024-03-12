@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 01_francia_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b47c41ac9b7bf5b438d2e34694f87165, type: 3}
+    totalSpriteSurfaceArea: 5449206
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b3616420d30a85c4686ab3e1aa5df66d, type: 3}
+  - {fileID: 8319634726491519635, guid: ade7f6e0275f20d49b5041bb04362095, type: 3}
+  - {fileID: 2839673981194998934, guid: ade7f6e0275f20d49b5041bb04362095, type: 3}
+  - {fileID: 21300000, guid: 59e1c5f0be1cab94980e49ba9ceefffd, type: 3}
+  - {fileID: 21300000, guid: 45699571ca2f79240a8a2133a95dd34a, type: 3}
+  - {fileID: 21300000, guid: 36630353b7809a344ba73684f873fd58, type: 3}
+  - {fileID: 21300000, guid: afc13783de7be8f4cb19bde18f217178, type: 3}
+  - {fileID: 21300000, guid: 4171d493ae4faee46a2ea00b1e88c84c, type: 3}
+  - {fileID: 21300000, guid: 9b9469048f6cf384589b10e1df78cd90, type: 3}
+  - {fileID: 21300000, guid: 27bc3a14a28c61e41a6279534bb3815f, type: 3}
+  - {fileID: 21300000, guid: 89fedbf401163f54dad531cebb4e9d99, type: 3}
+  - {fileID: 21300000, guid: 0e70928579d5c5246ad1a4b5556d45fb, type: 3}
+  - {fileID: 21300000, guid: d934fde5f8a76ca498d6ee178c5db6a9, type: 3}
+  - {fileID: 21300000, guid: 8e5d4c26496cd354ba665d3673fbd16f, type: 3}
+  - {fileID: 21300000, guid: daa5deb7466c9b043acc8441343011cb, type: 3}
+  - {fileID: 21300000, guid: b8def1c7856816a4da730f4cb35cb8c4, type: 3}
+  - {fileID: 21300000, guid: b11fec581f5d6084da7bd3f6651b3044, type: 3}
+  - {fileID: 21300000, guid: f171b8b89bb56374d9d7ee67d02ea0ce, type: 3}
+  - {fileID: 21300000, guid: 42d19bd800776974093df9d16c6cafd5, type: 3}
+  - {fileID: 21300000, guid: b62cf8b9bd1082543a6f0e07d4536df1, type: 3}
+  - {fileID: 21300000, guid: 4f430c6a41c80f74881e5af2bc4c0ed1, type: 3}
+  - {fileID: 21300000, guid: abf9186be4a946940a541f8e46cc95fc, type: 3}
+  - {fileID: 21300000, guid: 1666311cb19c9f34f924b2bbc485deb1, type: 3}
+  - {fileID: 21300000, guid: 44a2326caaa7e6b409f86013d7b612f1, type: 3}
+  - {fileID: 21300000, guid: d67e12dc8cb06b84b93ac7671e7f4b1e, type: 3}
+  - {fileID: 21300000, guid: a211dd2dc8258944983a5b0cebb674ad, type: 3}
+  - {fileID: 21300000, guid: 27031a5ddf8662f4bacacaeea3f49078, type: 3}
+  - {fileID: 21300000, guid: b89774adcb923854a908b6c0c55b3e9e, type: 3}
+  - {fileID: 893927976765792690, guid: 130647fded9e7b64c96312998d969649, type: 3}
+  - {fileID: -1733091838667186892, guid: 130647fded9e7b64c96312998d969649, type: 3}
+  - {fileID: 21300000, guid: b3d5885eb24c85847a71293af7c2b6ef, type: 3}
+  - {fileID: 21300000, guid: 28cf540f5bf1fdc44a66d46e06a09325, type: 3}
+  - {fileID: 21300000, guid: c068a4af7979d0e46b06721cf78bad04, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - arbol02_ciudad_dib01
+  - posta_medica_paris_dib02_0
+  - posta_medica_paris_dib02_1
+  - suelo01_paris_dib02
+  - base_paris_dib02
+  - arco_triunfo_dib02
+  - arbol02_ciudad
+  - suelo02_paris_dib01
+  - base_paris_dib01
+  - big_clock_dib01
+  - arbol01_paris
+  - big_clock
+  - base_paris
+  - arbol01_paris_dib02
+  - arbol02_paris_dib01
+  - eifel02_dib01
+  - posta_medica_paris
+  - eifel02_dib02
+  - arbol02_paris_dib02
+  - arco_triunfo_dib01
+  - suelo01_paris_dib01
+  - arbol02_ciudad_dib02
+  - arbol01_paris_dib01
+  - eifel02
+  - suelo02_paris
+  - suelo01_paris
+  - cielo_paris
+  - suelo02_paris_dib02
+  - posta_medica_paris_dib01_0
+  - posta_medica_paris_dib01_1
+  - arco_triunfo
+  - arbol02_paris
+  - big_clock_dib02
+  m_RenderDataMap: {}
+  m_Tag: 01_francia_atlas
+  m_IsVariant: 0
