@@ -117,7 +117,7 @@ public class @PlayerControl : IInputActionCollection, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""903b88db-8a99-464c-b91d-afbc9bd407b2"",
-                    ""path"": ""<XInputController>/rightShoulder"",
+                    ""path"": ""<DualShockGamepad>/rightShoulder"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
@@ -161,7 +161,7 @@ public class @PlayerControl : IInputActionCollection, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""352831d1-d5ca-4e47-8dfa-5a6f619122a1"",
-                    ""path"": ""<XInputController>/buttonEast"",
+                    ""path"": ""<DualShockGamepad>/buttonSouth"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
@@ -194,18 +194,7 @@ public class @PlayerControl : IInputActionCollection, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""b6995fe8-bf58-44ba-8a08-2b6e208ed470"",
-                    ""path"": ""<XInputController>/leftStick/left"",
-                    ""interactions"": """",
-                    ""processors"": """",
-                    ""groups"": """",
-                    ""action"": ""BotonIzquierda"",
-                    ""isComposite"": false,
-                    ""isPartOfComposite"": false
-                },
-                {
-                    ""name"": """",
-                    ""id"": ""c8d36716-e4e6-4d25-bc20-5e99133fc8c9"",
-                    ""path"": ""<XInputController>/dpad/left"",
+                    ""path"": ""<DualShockGamepad>/dpad/left"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
@@ -238,18 +227,7 @@ public class @PlayerControl : IInputActionCollection, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""3f6249a6-6a27-40a8-b58e-b31b380d81c3"",
-                    ""path"": ""<XInputController>/leftStick/right"",
-                    ""interactions"": """",
-                    ""processors"": """",
-                    ""groups"": """",
-                    ""action"": ""BotonDerecha"",
-                    ""isComposite"": false,
-                    ""isPartOfComposite"": false
-                },
-                {
-                    ""name"": """",
-                    ""id"": ""f7a174bd-c035-4b7d-9391-844ea04a0b92"",
-                    ""path"": ""<XInputController>/dpad/right"",
+                    ""path"": ""<DualShockGamepad>/dpad/right"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
@@ -282,7 +260,7 @@ public class @PlayerControl : IInputActionCollection, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""40d06e2d-5b15-49d2-9778-2ad9c0d3e3e3"",
-                    ""path"": ""<XInputController>/buttonWest"",
+                    ""path"": ""<DualShockGamepad>/buttonNorth"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
@@ -315,7 +293,7 @@ public class @PlayerControl : IInputActionCollection, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""f4ebe652-df3f-472d-8579-8530b635acf2"",
-                    ""path"": ""<XInputController>/start"",
+                    ""path"": ""<DualShockGamepad>/start"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
@@ -337,7 +315,7 @@ public class @PlayerControl : IInputActionCollection, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""a6d6b040-8fec-4df7-8c32-9d5d1112b489"",
-                    ""path"": ""<XInputController>/leftTrigger"",
+                    ""path"": ""<DualShockGamepad>/leftTrigger"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
@@ -370,7 +348,7 @@ public class @PlayerControl : IInputActionCollection, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""b81b4916-0f20-439e-a462-89f19ecc9c4e"",
-                    ""path"": ""<XInputController>/leftShoulder"",
+                    ""path"": ""<DualShockGamepad>/leftShoulder"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
@@ -392,7 +370,7 @@ public class @PlayerControl : IInputActionCollection, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""6aa1a274-c7b2-4c96-9670-0e5ad1cc50c2"",
-                    ""path"": ""<XInputController>/buttonNorth"",
+                    ""path"": ""<DualShockGamepad>/buttonEast"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
@@ -515,6 +493,11 @@ public class @PlayerControl : IInputActionCollection, IDisposable
         {
             ""name"": ""teclado"",
             ""bindingGroup"": ""teclado"",
+            ""devices"": []
+        },
+        {
+            ""name"": ""ps4"",
+            ""bindingGroup"": ""ps4"",
             ""devices"": []
         }
     ]
@@ -760,6 +743,15 @@ public class @PlayerControl : IInputActionCollection, IDisposable
         {
             if (m_tecladoSchemeIndex == -1) m_tecladoSchemeIndex = asset.FindControlSchemeIndex("teclado");
             return asset.controlSchemes[m_tecladoSchemeIndex];
+        }
+    }
+    private int m_ps4SchemeIndex = -1;
+    public InputControlScheme ps4Scheme
+    {
+        get
+        {
+            if (m_ps4SchemeIndex == -1) m_ps4SchemeIndex = asset.FindControlSchemeIndex("ps4");
+            return asset.controlSchemes[m_ps4SchemeIndex];
         }
     }
     public interface IGameplayActions
