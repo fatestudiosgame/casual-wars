@@ -131,6 +131,8 @@ public bool vendedor_armas_state,cocinero_state;
 
     private void Awake() {
     
+        
+
        if(core_logica_juego_gun_instance==null)
      {
         core_logica_juego_gun_instance=this;

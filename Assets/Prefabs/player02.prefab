@@ -386,7 +386,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -471,8 +471,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b58091d1993e38344b01d984e5852958, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soldado: {fileID: 3732649781894436622, guid: 86e251bc4211d1f4aab171090df8a878, type: 3}
-  medico: {fileID: 5490823316719769981, guid: 86e251bc4211d1f4aab171090df8a878, type: 3}
   constructor: {fileID: -3616742985666718419, guid: 86e251bc4211d1f4aab171090df8a878,
     type: 3}
   velocidadplayer: 2

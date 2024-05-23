@@ -45,7 +45,7 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         Application.targetFrameRate = 120; 
-        SceneManager.LoadScene("02_main_menu"); 
+        //SceneManager.LoadScene("02_main_menu"); 
     }
 
 
