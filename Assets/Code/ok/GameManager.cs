@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
+
 
 public class GameManager : MonoBehaviour
 {
@@ -15,19 +15,6 @@ public class GameManager : MonoBehaviour
     public int fase_actual, fase_juego_vencido;   
     public string nombre_heroe;
     
-    int dinero_heroe;
-
-
-    
-
-    //elemementos de audio
-    public AudioClip shot_sound,no_bullets_sound,helicopter_sound, car_sound, text_sound,click_sound,money_sound;
-
-    public AudioClip holamundo01,holamundo03,musica_lm_01;
-
-    public AudioSource audio_source_music, audio_source_sound_effect;
-
-    public bool musica_fondo_on; //0.27f;
 
 
    void Awake()
@@ -45,7 +32,6 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         Application.targetFrameRate = 120; 
-        SceneManager.LoadScene("02_main_menu"); 
     }
 
 
@@ -70,36 +56,6 @@ public class GameManager : MonoBehaviour
  
 
    
-   public void play_one_shot(string nombre_cancion, float volume)
-   {
-    audio_source_sound_effect.volume=volume; 
-     switch(nombre_cancion)
-     {
-      case "sonido_carro":  audio_source_sound_effect.PlayOneShot(car_sound); break; 
-      case "sonido_helicoptero":  audio_source_sound_effect.PlayOneShot(helicopter_sound); break; 
-      case "disparo_hero":  audio_source_sound_effect.PlayOneShot(shot_sound); break; 
-      case "sin_balas":  audio_source_sound_effect.PlayOneShot(no_bullets_sound); break; 
-      case "para_texto":  audio_source_sound_effect.PlayOneShot(text_sound); break; 
-      case "sonido_click":  audio_source_sound_effect.PlayOneShot(click_sound); break; 
-      case "sonido_dinero":  audio_source_sound_effect.PlayOneShot(money_sound); break; 
-     }
-   }
-
-  
-   public void play_music(string nombre_cancion, float volume)
-   {
-    audio_source_sound_effect.volume=volume; 
-     switch(nombre_cancion)
-     {
-      case "holamundo01":  audio_source_music.clip=holamundo01;  break; 
-      case "holamundo03":  audio_source_music.clip=holamundo03; break; 
-      case "musica_lm_01": audio_source_music.clip=musica_lm_01; break; 
-     }
-    audio_source_music.Play();
-   }
-
-
-
 
 
 

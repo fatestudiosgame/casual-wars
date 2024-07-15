@@ -17,15 +17,13 @@ public class scene_select : MonoBehaviour
 
     int fase_actual,fase_juego_vencido;
    
-    public AudioClip musica_lm_01;
- 
-  
+   
    // Start is called before the first frame update
     void Start()
     {
         
         Time.timeScale = 1;
-        cargarDatos();
+        GameManager.gm_instance.cargarDatos();
        
     }
 
@@ -35,13 +33,10 @@ public class scene_select : MonoBehaviour
     public void ir_al_nivel()
     {
      boton_siguiente.GetComponent<EventTrigger>().enabled = false;  
-     GetComponent<AudioSource>().PlayOneShot(sonidoclick);
-     salvarDatos();  
-     GameManager.gm_instance.play_music("musica_lm_01",1);      
+     GameManager.gm_instance.salvarDatos();  
+     AudioManager.audio_manager_instance.play_music("musica_lm_01",1);      
      PlayerPrefs.SetString("nombre_escena", nombre_objeto);  
      level_loader.level_loader_instance.load_scene("04_phrases_scene");   
-
-
     }
 
 
@@ -106,26 +101,12 @@ public class scene_select : MonoBehaviour
     
     
 
-
-
-
       
    
       
 
     
-    void salvarDatos()
-    {
-         PlayerPrefs.SetInt("fase_actual", fase_actual);
-         PlayerPrefs.SetInt("fase_juego_vencido", fase_juego_vencido);       
-    }
-
-    void cargarDatos()
-    {
-        fase_actual = PlayerPrefs.GetInt("fase_actual", 0);
-        fase_juego_vencido = PlayerPrefs.GetInt("fase_juego_vencido", 1);
-    }
-
+  
 
 
 

@@ -312,7 +312,7 @@ public class HeroTutorial : MonoBehaviour
                 else
                 {
 
-                    core_logica_juego_gun.core_logica_juego_gun_instance.hablarHero("NO PUEDO DISPARAR AQUI!!!");
+                    UiManager.ui_manager_instance.speak_hero("NO PUEDO DISPARAR AQUI!!!");
 
                 }
             

@@ -11,7 +11,7 @@ public class RefrescarUI : MonoBehaviour
     public Sprite sprite02;
     int conteo;
     float tiempo;
-    public int refresco;
+    int refresco;
     bool refrescar_state;
     int  altas_prestaciones;
 
@@ -29,17 +29,17 @@ public class RefrescarUI : MonoBehaviour
     }
 
     // Update is called once per frame
-    void FixedUpdate()
+    void Update()
     {
-      /*  
+       
         if (tiempo > refresco && refrescar_state == true)
         {
             tiempo = 0;
             if (conteo == 0) { this.GetComponent<Image>().sprite = sprite01; conteo = 1; }
             else if (conteo == 1) { this.GetComponent<Image>().sprite = sprite02; conteo = 0; }
         }
-     tiempo ++;
-     */
+     tiempo+=Time.deltaTime;
+   
     }
 
 
