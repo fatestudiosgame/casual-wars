@@ -6,19 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/01_preload_scene.unity
+    path: Assets/Scenes/version_jugable/01_preload_scene.unity
     guid: 5e3d51a5375c2824f8cc5950d11fb943
   - enabled: 1
-    path: Assets/Scenes/02_main_menu.unity
+    path: Assets/Scenes/version_jugable/02_main_menu.unity
     guid: c7e954bbb13291643a5a17778f295763
   - enabled: 1
-    path: Assets/Scenes/03_phase_select.unity
+    path: Assets/Scenes/version_jugable/03_phase_select.unity
     guid: 69da5c4afe6175548a41dcbe6e2be1ed
   - enabled: 1
-    path: Assets/Scenes/04_phrases_scene.unity
+    path: Assets/Scenes/version_jugable/04_phrases_scene.unity
     guid: 0899a8eca0f8d714eb1262394467a2a6
   - enabled: 1
-    path: Assets/Scenes/05_options_scene.unity
+    path: Assets/Scenes/version_jugable/05_options_scene.unity
     guid: c06712fdbbdee174fbefb64190f679b2
   - enabled: 1
     path: Assets/Scenes/06_lobby_scene.unity
@@ -27,16 +27,16 @@ EditorBuildSettings:
     path: Assets/Scenes/fase00_prologo.unity
     guid: 0fcfaa90e1b833b449e4dc14f09d4c43
   - enabled: 1
-    path: Assets/Scenes/fase01_ultima_ofensiva.unity
+    path: Assets/Scenes/version_jugable/fase01_ultima_ofensiva.unity
     guid: ba584eaf4b53185418c5ec45b8f0364b
   - enabled: 1
-    path: Assets/Scenes/fase02_sin_fronteras.unity
+    path: Assets/Scenes/version_jugable/fase02_sin_fronteras.unity
     guid: b194a9ff45590694d91219d6334d364a
   - enabled: 1
-    path: Assets/Scenes/fase03_esperanza.unity
+    path: Assets/Scenes/version_jugable/fase03_esperanza.unity
     guid: 9bd894a736b82f44c9584bf3ec851de2
   - enabled: 1
-    path: Assets/Scenes/borrar/Level01SceneEnd.unity
+    path: Assets/Scenes/version_jugable/Level01SceneEnd.unity
     guid: 6d76931bcd99c02499b6ab1f2d5aad47
   - enabled: 1
     path: Assets/Scenes/fase00_prologoA.unity

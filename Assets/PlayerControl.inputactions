@@ -104,7 +104,7 @@
                 {
                     "name": "",
                     "id": "903b88db-8a99-464c-b91d-afbc9bd407b2",
-                    "path": "<DualShockGamepad>/rightShoulder",
+                    "path": "<DualShockGamepad>/rightTrigger",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -181,7 +181,7 @@
                 {
                     "name": "",
                     "id": "b6995fe8-bf58-44ba-8a08-2b6e208ed470",
-                    "path": "<DualShockGamepad>/dpad/left",
+                    "path": "<DualShockGamepad>/leftStick/left",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -214,7 +214,7 @@
                 {
                     "name": "",
                     "id": "3f6249a6-6a27-40a8-b58e-b31b380d81c3",
-                    "path": "<DualShockGamepad>/dpad/right",
+                    "path": "<DualShockGamepad>/leftStick/right",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -247,7 +247,7 @@
                 {
                     "name": "",
                     "id": "40d06e2d-5b15-49d2-9778-2ad9c0d3e3e3",
-                    "path": "<DualShockGamepad>/buttonNorth",
+                    "path": "<DualShockGamepad>/buttonWest",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
