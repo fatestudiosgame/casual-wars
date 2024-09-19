@@ -1,13 +1,9 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 92de924fa8076cb478bd852de9170bdf
-=======
 <<<<<<<< HEAD:Assets/Universal RP/Profiles/fx Profile.asset.meta
 guid: 446838276b5078e4a8c0183282bc21f3
 ========
 guid: 100a934ad45b858479018380ecc437ab
 >>>>>>>> f1b48554be4f3f5999f1f38a75f77b13911dc43a:Assets/Universal RP/New 2D Renderer Data.asset.meta
->>>>>>> f1b48554be4f3f5999f1f38a75f77b13911dc43a
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/AllIn1SpriteShader/2DRenderer_URP/Demo/Prefabs/BigContainer.prefab.meta
 guid: 28e8bbcd1674edc47b1de186b9f86380
+========
+guid: 4d2da7d370df7014eb8f3787eb758a9b
+>>>>>>>> f1b48554be4f3f5999f1f38a75f77b13911dc43a:Assets/AllIn1SpriteShader/2DRenderer_URP/Demo/Prefabs/BigContainer2.prefab.meta
 PrefabImporter:
   externalObjects: {}
   userData: 

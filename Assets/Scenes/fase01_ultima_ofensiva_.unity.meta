@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scenes/fase01_ultima_ofensiva_.unity.meta
 guid: 16f1bcb544d503f46961363db758887e
 DefaultImporter:
+========
+guid: 28e8bbcd1674edc47b1de186b9f86380
+PrefabImporter:
+>>>>>>>> f1b48554be4f3f5999f1f38a75f77b13911dc43a:Assets/AllIn1SpriteShader/2DRenderer_URP/Demo/Prefabs/BigContainer.prefab.meta
   externalObjects: {}
   userData: 
   assetBundleName: 
